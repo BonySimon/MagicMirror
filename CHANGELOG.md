@@ -7,6 +7,9 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 ### Added
 
 - Add missing `package-lock.json`.
+### Fixed
+
+- Correct a crash on translation of objects
 
 ## [2.2.1] - 2018-01-01
 
