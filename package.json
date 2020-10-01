@@ -60,7 +60,7 @@
     "feedme": "latest",
     "helmet": "^3.9.0",
     "iconv-lite": "latest",
-    "mocha-logger": "^1.0.5",
+    "mocha-logger": "^1.0.7",
     "moment": "latest",
     "request": "^2.83.0",
     "rrule-alt": "^2.2.7",
